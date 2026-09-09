@@ -3,7 +3,7 @@
 GitHub Pages-ready Minecraft Java Edition enchantment calculator.
 
 ## Included
-- Full current enchantment list used by the calculator, including Soul Speed, Swift Sneak, Wind Burst, Density, Breach, Mending, etc.
+- Full current enchantment list used by the calculator.
 - Item-specific compatibility, including hoe and mace.
 - Incompatible-enchantment warnings.
 - Java-style prior-work penalty tracking.
